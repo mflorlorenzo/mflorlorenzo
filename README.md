@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Flor
+- 👋 Hi, I’m Flor (She / Her)
 - 🗣 Entrepreneur
 - 🇮🇹🇦🇷 italo-argentina
 - 🌱 Veg
