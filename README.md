@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florencia (She / Her)</h1>
 <h3 align="center">An Entrepreneur, QA engineer and Geek from Argentina</h3>
 
-- 🌱 I’m currently learning **Cypress Framework**
+- 🌱 I’m currently using **Cypress**
 
 - 📫 How to reach me **lorenzo.mflorencia@gmail.com**
 
