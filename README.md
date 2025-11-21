@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Florencia (She / Her)</h1>
+<h1 align="center">Hi 👋, I'm Hana (short for my name in Japanese) (She / Her)</h1>
 <h3 align="center">QA Engineer | Technical Artist | Geek </h3>
 <h4 align="center">from Argentina 🇦🇷</h4>
 
 - 🤓 Expertise in **Cypress - JS/TS**
 
-- 📖 I’m currently learning **Unity Game Development**
+- 📖 I’m currently learning **AI Testing**
 
 - 📫 How to reach me **lorenzo.mflorencia@gmail.com**
 
